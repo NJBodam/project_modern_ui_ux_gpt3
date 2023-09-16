@@ -9,12 +9,13 @@
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
+
     margin-right: 5rem;
 }
 
 .gpt3__header-content h1 {
     font-family: var(--font-family);
-    font-weight: 100;
+    font-weight: 800;
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
@@ -22,7 +23,7 @@
 
 .gpt3__header-content p {
     font-family: var(--font-family);
-    font-weight: 100;
+    font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     color: var(--color-text);
@@ -61,7 +62,7 @@
     width: 100%;
     min-height: 50px;
     font-family: var(--font-family);
-    font-weight: 100;
+    font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     background: #FF4820;
